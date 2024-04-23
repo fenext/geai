@@ -1,4 +1,4 @@
-# 🐦geai
+# 🐦 geai
 
 ## Description
 geai is an AI Geotechnical engineer that specializes in analyzing and interpreting geotechnical data. This project aims to provide a powerful and efficient tool for geotechnical engineers to perform various geotechnical analyses.
