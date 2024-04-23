@@ -9,4 +9,4 @@ geai is an AI Geotechnical engineer who specializes in analyzing and interpretin
 - Predictive modelling: geai can develop predictive models based on historical data to estimate geotechnical parameters and behaviour.
 
 ## Contact
-For any inquiries or questions, please contact the project maintainer at [email@example.com](mailto:email@example.com).
+For any inquiries or questions, please contact the project maintainer at [geai@saeedgolzar.ir](mailto:geai@saeedgolzar.ir).
