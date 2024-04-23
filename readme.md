@@ -1,12 +1,12 @@
 # 🐦 geai
 
 ## Description
-geai is an AI Geotechnical engineer that specializes in analyzing and interpreting geotechnical data. This project aims to provide a powerful and efficient tool for geotechnical engineers to perform various geotechnical analyses.
+geai is an AI Geotechnical engineer who specializes in analyzing and interpreting geotechnical data. This project aims to provide a powerful and efficient tool for geotechnical engineers to perform various geotechnical analyses.
 
 ## Features
 - Data analysis: geai can process and analyze geotechnical data, including soil properties, laboratory test results, and field measurements.
 - Interpretation: geai can interpret the analyzed data and provide insights and recommendations for geotechnical engineering projects.
-- Predictive modeling: geai can develop predictive models based on historical data to estimate geotechnical parameters and behavior.
+- Predictive modelling: geai can develop predictive models based on historical data to estimate geotechnical parameters and behaviour.
 
 ## Contact
 For any inquiries or questions, please contact the project maintainer at [email@example.com](mailto:email@example.com).
